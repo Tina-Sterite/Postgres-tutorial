@@ -1,0 +1,12 @@
+name: postgresql
+channels:
+  - defaults
+dependencies:
+  - conda
+  - ipykernel
+  - pandas
+  - pip
+  - python
+  - psycopg2
+  - sqlalchemy
+prefix: C:\ProgramData\Anaconda3\envs\postgresql
